@@ -6,7 +6,7 @@ This script will let you set up your own OpenVPN server in a minute, even if you
 
 
 Download the installer script:  
-`wget https://github.com/lkuntze/openvpn-installer/openvpn-installer.sh`
+`wget https://raw.githubusercontent.com/lkuntze/openvpn-installer/master/openvpn-installer.sh`
 
 Make the script executable  
 `chmod +x openvpn-installer.sh`
